@@ -2,7 +2,8 @@
 
 **This directory is required. All assets, such as PDFs and images, should be stored in this directory**
 
-Reference this directory in your Markdown file, like so:
+Ref: 
+
 
 ```
 
